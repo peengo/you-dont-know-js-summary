@@ -1,4 +1,4 @@
-# Types And Grammar
+# Types & Grammar
 
 ## Types
 
